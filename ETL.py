@@ -1,0 +1,1 @@
+print("haha my code is different sucker ")
